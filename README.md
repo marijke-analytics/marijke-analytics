@@ -90,7 +90,7 @@ Analyse multimodaler Verkehrsverlagerung mit Open‑Data‑Quellen, GeoPandas, P
 
 **📧 E-Mail:** marijke.haupt@gmx.de  
 **🐙 GitHub:** https://github.com/marijke-analytics  
-**🔗 LinkedIn:** *optional einfügen*
+**🔗 LinkedIn:** **
 
 ---
 
