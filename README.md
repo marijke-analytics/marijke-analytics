@@ -38,7 +38,7 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 <h3>🏠 Immobilienpreis‑Vorhersage</h3>
 <p>
   <a href="https://github.com/marijke-analytics/house-price-classification">
-    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open-Repository-8ecae6?style=flat">
   </a>
 </p>
 </td>
@@ -47,7 +47,7 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 <h3>🌍 COVID‑19 Zeitreihen</h3>
 <p>
   <a href="https://github.com/marijke-analytics/covid19-timeseries">
-    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open-Repository-a8dadc?style=flat">
   </a>
 </p>
 </td>
@@ -58,7 +58,7 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 <h3>📊 World Bank Clustering</h3>
 <p>
   <a href="https://github.com/marijke-analytics/worldbank-clustering">
-    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open-Repository-bde0fe?style=flat">
   </a>
 </p>
 </td>
@@ -67,7 +67,7 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 <h3>📡 FFT‑Signal-Analyse</h3>
 <p>
   <a href="https://github.com/marijke-analytics/fft-signal-analysis">
-    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open-Repository-cde5d7?style=flat">
   </a>
 </p>
 </td>
@@ -78,7 +78,7 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 <h3>🧠 Neuroleadership</h3>
 <p>
   <a href="https://github.com/marijke-analytics/neuroleadership-study">
-    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open-Repository-d9d9d9?style=flat">
   </a>
 </p>
 </td>
@@ -87,7 +87,7 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 <h3>🧪 Usability‑Studie</h3>
 <p>
   <a href="https://github.com/marijke-analytics/usability-study">
-    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open-Repository-8ecae6?style=flat">
   </a>
 </p>
 </td>
@@ -98,13 +98,12 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 <h3>🚚 Verlagerungsmodell Güterverkehr</h3>
 <p>
   <a href="https://github.com/marijke-analytics/verlagerungsmodell-gueterverkehr">
-    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open-Repository-a8dadc?style=flat">
   </a>
 </p>
 </td>
 </tr>
 </table>
-
 
 ---
 
