@@ -34,38 +34,77 @@ Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced A
 
 <table>
 <tr>
-<td>
+<td width="50%">
 <h3>🏠 Immobilienpreis‑Vorhersage</h3>
-<p>Klassifikation „AboveMedianPrice“ mit LogReg, KNN, Random Forest.</p>
+<p>
+  <a href="https://github.com/marijke-analytics/house-price-classification">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+  </a>
+</p>
 </td>
-<td>
+
+<td width="50%">
 <h3>🌍 COVID‑19 Zeitreihen</h3>
-<p>Globale Analyse, 7‑Tage‑Mittelwerte, Bubble‑Map.</p>
+<p>
+  <a href="https://github.com/marijke-analytics/covid19-timeseries">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+  </a>
+</p>
 </td>
 </tr>
 
 <tr>
 <td>
 <h3>📊 World Bank Clustering</h3>
-<p>PCA, K‑Means, Agglomerative, DBSCAN, GMM.</p>
+<p>
+  <a href="https://github.com/marijke-analytics/worldbank-clustering">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+  </a>
+</p>
 </td>
+
 <td>
-<h3>📡 FFT‑Analyse</h3>
-<p>Frequenzanalyse, FFT, Nyquist, MATLAB.</p>
+<h3>📡 FFT‑Signal-Analyse</h3>
+<p>
+  <a href="https://github.com/marijke-analytics/fft-signal-analysis">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+  </a>
+</p>
 </td>
 </tr>
 
 <tr>
 <td>
 <h3>🧠 Neuroleadership</h3>
-<p>SCARF‑Modell, Change‑Management, wissenschaftliche Analyse.</p>
+<p>
+  <a href="https://github.com/marijke-analytics/neuroleadership-study">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+  </a>
+</p>
 </td>
+
 <td>
+<h3>🧪 Usability‑Studie</h3>
+<p>
+  <a href="https://github.com/marijke-analytics/usability-study">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+  </a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 <h3>🚚 Verlagerungsmodell Güterverkehr</h3>
-<p>Open‑Data‑Projekt, GeoPandas, Power BI, multimodale Verkehrsströme.</p>
+<p>
+  <a href="https://github.com/marijke-analytics/verlagerungsmodell-gueterverkehr">
+    <img src="https://img.shields.io/badge/Repository-Open-blue?style=for-the-badge">
+  </a>
+</p>
 </td>
 </tr>
 </table>
+
 
 ---
 
